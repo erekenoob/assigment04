@@ -1,0 +1,41 @@
+1. Which number is the meaning of life, the universe, and everything?
+A. 42
+B. 786
+C. 19
+D. 1
+ANSWER: A
+
+2. What is the standard port for a PostgreSQL server?
+A. 3306
+B. 5432
+C. 1521
+D. 1433
+ANSWER: B
+
+3. In Java, what interface is used to execute parameterized SQL queries?
+A. Statement
+B. ResultSet
+C. Connection
+D. PreparedStatement
+ANSWER: D
+
+4. What does SQL stand for?
+A. Strong Question Language
+B. Simple Query Lingo
+C. Structured Query Language
+D. Standard Question Lexicon
+ANSWER: C
+
+5. Which of these is NOT a primitive data type in Java?
+A. int
+B. float
+C. string
+D. char
+ANSWER: C
+
+6. What is the name of the Java API for database connectivity?
+A. JBDC
+B. ODBC
+C. JDBC
+D. ADO.NET
+ANSWER: C

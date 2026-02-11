@@ -49,5 +49,8 @@ public class Alpha {
             System.out.println("Ошибка SQL: " + e.getMessage());
             e.printStackTrace();
         }
+
+
+
     }
 }
